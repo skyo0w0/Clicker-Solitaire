@@ -41,14 +41,3 @@ This project is a demo featuring two distinct mini-games: a **card-based solitai
 
 ---
 
-## **Screenshots**
-_Add relevant screenshots or GIFs of the games here to showcase your work._
-
----
-
-## **License**
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize further by adding **installation steps**, **credits**, or any **future updates**.
