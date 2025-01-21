@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Club
+  m_EditorClassIdentifier: 
+  m_GroupName: Club
+  m_GUID: 10f055d8a401150498147a2583e5217b
+  m_SerializeEntries:
+  - m_GUID: 0a6e3c6c40df41940ad2fb925fb0688c
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Club/Club12.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Club
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bcb19d93a016e94f93a7e2fac280bed
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Club/Club07.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Club
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d4efa847b2131947bb10e09e044efcc
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Club/Club09.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Club
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56b480213ded30244b28e72660856365
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Club/Club01.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Club
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 626366a4a0c7bca4084306eb5489123b
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Club/Club08.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Club
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80a0d0770e8bb9f4ba714d5c5e782039
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Club/Club10.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Club
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9302d42f098e67c41a201e19aa1d27d0
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Club/Club03.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Club
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e4fef354a531d446b72020d5125348d
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Club/Club06.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Club
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a99f39bc317efcf4aae469b213d0d163
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Club/Club04.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Club
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2d0ba18f8b024a49a61be93bf9c89c0
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Club/Club13.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Club
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2a5726b287996745aacff7b182a521d
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Club/Club02.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Club
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0e626a1e8e53a14e908b9c98e23b8f6
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Club/Club05.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Club
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb01a0c0319df854aa13366f4e1528a1
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Club/Club11.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Club
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5a75340daa95c1a4f823def1c30d25a1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 419c693ac9afedc49954e0ba0e039247, type: 2}
+    - {fileID: 11400000, guid: fa526daaebad5194bb5f3ac901d7836d, type: 2}

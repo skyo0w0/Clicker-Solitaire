@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Spades
+  m_EditorClassIdentifier: 
+  m_GroupName: Spades
+  m_GUID: 8e592b51e416ba44e964dc714b4ad2e6
+  m_SerializeEntries:
+  - m_GUID: 02a559c0b6c879d4297056cef79f941b
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Spades/Spade05.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Spades
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07517454cd8e340429110b2e89533e3a
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Spades/Spade07.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Spades
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bc0a39dce7af2d40b541dddf4ed86dc
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Spades/Spade12.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Spades
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c1a6354d1d441c4e97d432a7edc557c
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Spades/Spade13.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Spades
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 397fcc769693d0747ac7c79d662555d9
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Spades/Spade10.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Spades
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 523bc81d4f12c154594d9134dfd85f4f
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Spades/Spade11.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Spades
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a15298c71266594086136f6121ae454
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Spades/Spade06.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Spades
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78998314942cf794786a837260fddeeb
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Spades/Spade09.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Spades
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b52a4d2a4cc48d45bc0c270ebffc24b
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Spades/Spade04.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Spades
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8523d4368d550a947a1c3cb4168ed9ff
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Spades/Spade03.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Spades
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99f10cb705af6b348a812c1ab511d0ce
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Spades/Spade02.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Spades
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da6a082efa6b6694f92fad9442f30fa9
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Spades/Spade08.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Spades
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f068beb6338e31243afd5b1a3ed6604f
+    m_Address: Assets/AddressableAssets/Sprites/Cards/Spades/Spade01.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Spades
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5a75340daa95c1a4f823def1c30d25a1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 125a879246edadb47bcd40cfd2c3f4ca, type: 2}
+    - {fileID: 11400000, guid: aede2f9c96ba5524c91f4d6f759d735d, type: 2}

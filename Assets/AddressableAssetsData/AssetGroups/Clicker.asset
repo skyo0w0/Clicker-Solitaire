@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Clicker
+  m_EditorClassIdentifier: 
+  m_GroupName: Clicker
+  m_GUID: 68453b16dd1bc254c82238548155a7d2
+  m_SerializeEntries:
+  - m_GUID: e21236733e33f0345902f2e6a244119b
+    m_Address: Assets/AddressableAssets/Sprites/Clicker/Who.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ClickerSprite
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5a75340daa95c1a4f823def1c30d25a1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 145775a7b37e7154b992ad5f5afbff23, type: 2}
+    - {fileID: 11400000, guid: 23fdd4e58901d63469480d5d277bd91f, type: 2}

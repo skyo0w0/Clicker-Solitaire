@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Scenes
+  m_EditorClassIdentifier: 
+  m_GroupName: Scenes
+  m_GUID: 7a0c7b174160d9f428cdeee661ec5af7
+  m_SerializeEntries:
+  - m_GUID: 144aadc08db40be4a845f65b59df9b12
+    m_Address: Assets/Scenes/Home.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Home
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a1f2e768574a0a45abc7de9568e2ac9
+    m_Address: Assets/Scenes/Clicker.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Clicker
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c9cfa26abfee488c85f1582747f6a02
+    m_Address: Assets/Scenes/Solitaire.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Solitaire
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5a75340daa95c1a4f823def1c30d25a1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0e55c1607414a0f40879d6146f850906, type: 2}
+    - {fileID: 11400000, guid: dfbf76719877c624ca0cdde7c6a51278, type: 2}
