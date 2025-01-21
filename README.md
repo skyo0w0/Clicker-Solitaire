@@ -32,12 +32,8 @@ This project is a demo featuring two distinct mini-games: a **card-based solitai
 ---
 
 ## **How to Run**
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   ```
-2. Open the project in Unity (tested on Unity 2021.3 or later).
-3. Play the game directly from the Unity Editor or build it for your desired platform.
-
+1. Download Build.Zip
+2. Unpack ZIP
+3. Play the game.
 ---
 
